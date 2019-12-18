@@ -1,0 +1,33 @@
+{
+    "states":["All","Maharashtra","Kerala","Karnataka","Madhya Pradesh","West Bengal","Rajasthan","Himachal Pradesh"],
+    "cities":[
+        {
+            "name":"Mumbai",
+            "state":"Maharashtra"
+        },
+        {
+            "name":"Kochi",
+            "state":"Kerala"
+        },
+        {
+            "name":"Bengaluru",
+            "state":"Karnataka"
+        },
+        {
+            "name":"Indore",
+            "state":"Madhya Pradesh"
+        },
+        {
+            "name":"Kolkata",
+            "state":"West Bengal"
+        },
+        {
+            "name":"Jaipur",
+            "state":"Rajasthan"
+        },
+        {
+            "name":"Shimla",
+            "state":"Himachal Pradesh"
+        }
+    ]
+}

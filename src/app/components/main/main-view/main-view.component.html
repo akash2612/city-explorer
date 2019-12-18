@@ -1,0 +1,12 @@
+<div>
+    <ul class="list row">
+        <li class="item col-md-4" *ngFor="let item of globalService.placeData.states" filterData>{{item}}</li>
+    </ul>
+
+    <div class="wrap">
+        <ul class="list">
+            <li class="item" *ngFor="let item of globalService.filterData" (click)="goToDetail($event)">{{item.name}}</li>
+        </ul>
+    </div>
+
+</div>
